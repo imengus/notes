@@ -13,9 +13,13 @@
 - cis-trans only in square and octahedral
 - optical isomerism in cis-octahedral or 3 identical bidentate ligands around central ion
 
-### Colours of complex ions
+### Colours of complex ions:
 - [Cr(H2O)6]3+ = purple
 - [Cr(OH)6]3- = dark green
 - Mn2+ pale pink --> Mn(OH)2 = light brown
 - Fe3+ pale yellow
 
+### Clocks reactions:
+- amount of thiosulphate effectively constant -->
+- rate \propto 1/T
+-
