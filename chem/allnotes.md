@@ -21,5 +21,6 @@
 
 ### Clocks reactions:
 - amount of thiosulphate effectively constant -->
-- rate \propto 1/T
+- rate $\propto 1/T$
 -
+
