@@ -424,4 +424,3 @@
 - binds to pre-mRNA --> double stranded
 - spliced out and removes stop codon
 
-
