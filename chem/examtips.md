@@ -14,6 +14,11 @@
 - Justify
 - Units
 
+### Knowledge:
+- hot solution is cooled before purified organic compound collected?
+- H+ + -CN -> -COOH
+- alkene to alcohol single OH
+
 ### Keywords:
 - More negative/exothermic
 - bond, not bind
@@ -21,14 +26,20 @@
 
 ### Other mistakes:
 - Kp in partial pressures, single p
-- CONCENTRATIONS, not moles
+- CONCENTRATIONS, not moles or grams
 - entropy products - reactants
 - wrong standard value eg Avogadro's
+- Must account for every carbon or species in reaction
+- Polymer displayed
+- Identify based on peaks not chemical shifts
+- Condenser not water jacket
+-
 
 ### Level of response:
 - buzzwords
 - include as much detail as possible
 - bullet points
+- include all structures
 
 ### Make knowledge up when unsure:
 > MgCl2 white precipitate
