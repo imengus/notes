@@ -35,7 +35,7 @@
 - Crossing over between non-sister chromatids in the bivalent
 - Recombination of maternal and paternal genetic information
 
-### Metphase I:
+### Metaphase I:
 - Spindle fibres attach to centromere
 - move the chromosome to equatorial plate
 - Homologous chromosomes assorted randomly at equator
@@ -90,16 +90,13 @@
 - Barrier to high bp (pre-eclampsia), pathogens (rubella) + toxins (heroin)
 - Only allows passage of maternal antibodies --> passive immunity
 
-### Placenta structure:
-- Two circulations are in counter current flow
-
 ### Amnion:
 - Membrane derived from inner cell mass in blastocyst
 - Amniotic fluid accumulates after 4-5 weeks
 
 ### Amniotic fluid roles:
 - Maintain temperature
-- Provide lubricatin
+- Provide lubrication
 - Contribute to lung development
 - Allow movement
 - Shock absorption
@@ -111,6 +108,9 @@
 ### Oestrogen in pregnancy:
 - stimulates growth of uterus --> accommodate foetus
 - growth and development of mammary glands
+- secondary sexual characteristics
+- inhibit prolactin synthesis
+- inhibit oxytocin synthesis
 
 ### Effects of slight progesterone decrease: 
 - secretion of oxytocin from pPG to start positive feedback loop
@@ -148,6 +148,10 @@
 - FSH and LH fall --> corpus luteum degenerates
 - progesterone falls so endometrium sheds
 - low oestrogen no longer inhibits FSH, so restarts
+
+### Male reproductive hormones:
+- FSH + testosterone for sperm development
+- LH leydig cells
 
 #
 # Plant reproduction

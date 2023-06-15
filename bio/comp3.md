@@ -74,4 +74,31 @@
 - very readily loads, only releases oxygen in very low ppO2
 - pumps seawater through burrow
 
-### 
+#
+# Plant transport
+### Root cell features:
+- cellulose cell wall freely permeable to water
+- large numbers of mitochondria and protein carriers
+
+### Order of layers in root CS:
+1. Epidermis (root haircells)
+2. Cortex
+3. Endodermis (casparian strip)
+4. Phloem
+5. Xylem
+
+### Apoplast:
+- soaks into cellulose fibres of epidermal and cortical cell wall
+- water entering xylem raises pressure at root?
+
+### Minerals:
+- diffuse with water along apoplast pathway
+- at endodermis enter symplast pathway by active transport against concentration gradient
+- to by-pass Casparian strip
+
+### Transpiration:
+- Continuous removal of water from top of xylem results in tension
+- pulls on the xylem column and water up from roots
+
+### Factors affecting transpiration:
+- warm air has more kinetic energy and holds more water
