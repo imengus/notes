@@ -47,3 +47,46 @@
 - low atomic mass so light weight + high energy density
 - BUT very reactive, fires. CO produced when overheated
 
+### Organic synthesis:
+- RCN -Heat/2H2O + HCl-> RCOOH + NH4Cl
+- AlCl3 used for acylation and alkylation reactions
+- c.HCl/Sn + RNO2 -reflux-> RNH2
+
+### Filtration under reduced pressure:
+- insoluble impurities can be filtered out
+- solubility of target compound falls while impurities remain in solution when cooled
+
+### Melting points:
+- diff when melting first observed vs complete
+- heating stopped when melting point approached in thiele tube
+
+### Substitution:
+- N: RX with NaCN/ NH3 in C2H5OH
+- N: NaX/c.H2SO4
+- N: CHOCl + NH3 -> CHONH2 + HCl
+- N: alkaline hydrolysis of ester
+- N: CH3Cl + NaOH -> CH3OH + NaCl
+- E: acylation / alkylation / chlorination / nitration
+
+### Addition:
+- N: RCHO + NaCN/H+
+- E: C=C + HX
+- E: C=C + H2O/H3PO4
+
+### Hydrolysis:
+- excess of water used to favour forward reaction
+- oxygen with too many bonds has $+$ charge
+- hydronium catalyst
+- ethanoic acid is weak so does not react with weak base
+
+### Directing:
+- lone pairs of Hal in p-orbital --> 2, 4 directing as they stabilise transition state
+- halogens cannot obtain full octet through resonance on 3rd carbon
+- $\mathrm{-O^-}$ strongly activating, $\mathrm{-^+NR_3}$ deactivating
+
+### Mechanism FAX:
+- tertiary haloalkane slowly ionises by itself. Cannot have normal nucleophilic attack as steric hindrance
+- electronegativities of C and I are equal $\Rightarrow$ no separation of charge
+- approaching negative ion causes bonding electrons to be repelled to iodine end of bond
+- large bromine atom hinders attack from its side and its partial negativity repels incoming $\mathrm{Nu^-}$
+- any HCl formed would immediately react with excess ammonia
