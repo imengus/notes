@@ -1,23 +1,26 @@
+# KOBReJU acryonym
+- **K**nowledge
+- **O**verload
+- **B**ullet
+- **R**-do
+- **A**nnotations
+- **J**ustify
+- **U**nits
+
 # Finalised tips:
 - Never make knowledge up. Stick to what you know
 - Overload keywords and comparisons
 - bullet point information that will get marks
 - always re-do calculations/equations DIFFERENTLY
 - justify your mistake when changing your answer
-- always include units next to every value
-
-### KOBReJU acryonym
-- Knowledge
-- Overload
-- Bullet
-- RE-do
-- Justify
-- Units
+- underline key species, commands, words etc
+- diagrams. annotations
 
 ### Knowledge:
 - hot solution is cooled before purified organic compound collected?
-- H+ + -CN -> -COOH
+- H+ + -CN -> -COOH, also by alkaline hydrolysis
 - alkene to alcohol single OH
+- phenol can take on H+
 
 ### Keywords:
 - More negative/exothermic
@@ -33,7 +36,8 @@
 - Polymer displayed
 - Identify based on peaks not chemical shifts
 - Condenser not water jacket
--
+- butan / benz
+- didn't draw a diagram
 
 ### Level of response:
 - buzzwords
@@ -51,3 +55,4 @@
 - always look at axes and units
 - Ea drawn from reactants to peak
 - voltmeter drawn in cells
+- reading spectra. Give data ranges
