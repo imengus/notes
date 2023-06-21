@@ -7,6 +7,5 @@
 ### Logical:
 - If no identity, elements have no inverse
 
-### Ommisions:
+### Omissions:
 - identity element equation
--

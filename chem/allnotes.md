@@ -90,3 +90,5 @@
 - approaching negative ion causes bonding electrons to be repelled to iodine end of bond
 - large bromine atom hinders attack from its side and its partial negativity repels incoming $\mathrm{Nu^-}$
 - any HCl formed would immediately react with excess ammonia
+- NaOH in ethanol --> alkene from haloalkane
+
